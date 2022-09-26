@@ -1,6 +1,6 @@
 # SD_streetlight_maintenance_priority_queue
 
-uses the closed San Diego Get It Done Reports data from 2016-2022 and open San Diego Get It Done Reports data (accessed 9/22/2022)
+uses the closed San Diego Get It Done Reports data from 2016-2022 and open San Diego Get It Done Reports data (accessed 9/22/2022) from https://data.sandiego.gov/datasets/get-it-done-311/. 
 
 sd_streetlight_filter.py: filters away non-streetlight requests
 
